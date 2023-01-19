@@ -1,0 +1,9 @@
+Abnormal Heartbeat Detection using Deep Learning
+
+
+Introduction:
+My interest in human performance and wearable sensors motivated me to build my data science project portfolio with projects related to physiological data. A lot of physiological data such as heartbeat signals, gait data, or angular velocities derived from inertial measurement units are in the form of time series data. Time series data are a sequence of datapoints indexed in time order. Analyzing this type of data, as opposed to cross sectional or singular data points, require different analysis approaches. I thought that exploring a dataset of heartbeat signals recorded from ECG would be a great learning experience for building my skillset in analyzing time series data. Specifically, this project uses a neural network to detect anomalies in heartbeat sound signals. Using AI and ML algorithms in parallel with doctors’ expertise can help to detect abnormal signals accurately and efficiently. Let’s get started.
+
+
+Research Question:
+As with any data science or research project, identifying the problem is a good place to begin. Cardiovascular disease is a major cause of mortality, but early detection of disease can help doctors develop plans to reduce the risk of cardiovascular disease related death. Given that abnormal heartbeat signals are an indicator of cardiovascular disease, early detection of anomalies could help clinicians diagnose these diseases early on. Therefore, the aim of this project is to build machine learning models that can detect abnormal heartbeat signals, which would help clinicians with early detection of cardiovascular disease.   
